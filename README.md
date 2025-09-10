@@ -3,7 +3,7 @@
 ## About Me
 I'm a Bachelor of Statistical Data Science student at the **Indian Statistical Institute, Kolkata**. I'm passionate about the intersection of statistics, computer science, and finance. I enjoy building models that solve real-world problems.
 
-- 🌱 I’m currently learning **Deep Learning** and **Statistical Learning Theory**.
+- 🌱 I’m currently learning **Probability Theory,** **DSA,** **Graph Theory,** **Statistical Inference** and **Statistical Techniques**.
 - 👯 I’m looking to collaborate on projects involving **Quantitative Finance** and **Natural Language Processing**.
 - 📫 How to reach me: **[aayush01jha@gmail.com]** or on **[LinkedIn](https://www.linkedin.com/in/aayush-jha-01852a24a/)**
 
