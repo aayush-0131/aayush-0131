@@ -28,6 +28,6 @@ I'm a Bachelor of Statistical Data Science student at the **Indian Statistical I
 
 ### 📊 My GitHub Stats
 
-[![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayush-0131&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Aayush's GitHub Stats](https://github-readme-stats-nine-eta-59.vercel.app/api?username=aayush-0131&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-0131&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nine-eta-59.vercel.app/api/top-langs/?username=aayush-0131&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
