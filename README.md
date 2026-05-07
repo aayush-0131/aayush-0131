@@ -1,7 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=aayush-0131&color=blue)
-
-![Profile views](https://komarev.com/ghpvc/?username=aayush-0131&label=Profile%20views&color=blue)
-
 # Hi, I'm Aayush Jha! 👋
 
 ## About Me
@@ -35,3 +31,8 @@ I'm a Bachelor of Statistical Data Science student at the **Indian Statistical I
 [![Aayush's GitHub Stats](https://github-readme-stats-nine-eta-59.vercel.app/api?username=aayush-0131&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-nine-eta-59.vercel.app/api/top-langs/?username=aayush-0131&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aayush-0131&label=Profile%20views&color=blue" alt="Profile views" />
+</p>
