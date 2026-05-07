@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=aayush-0131&color=blue)
+
 # Hi, I'm Aayush Jha! 👋
 
 ## About Me
