@@ -1,38 +1,43 @@
-# Hi, I'm Aayush Jha! 👋
+# Aayush Jha
 
-## About Me
-I'm a Bachelor of Statistical Data Science student at the **Indian Statistical Institute, Kolkata**. I'm passionate about the intersection of statistics, computer science, and finance. I enjoy building models that solve real-world problems.
+**Statistical Data Science @ Indian Statistical Institute, Kolkata**
 
-- 🌱 I’m currently learning **Probability Theory,** **DSA,** **Graph Theory,** **Statistical Inference** and **Statistical Techniques**.
-- 👯 I’m looking to collaborate on projects involving **Quantitative Finance** and **Natural Language Processing**.
-- 📫 How to reach me: **[aayush01jha@gmail.com](mailto:aayush01jha@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/aayush-jha-01852a24a/)**
+I work at the intersection of statistics, machine learning, and research-oriented software. I’m especially interested in building systems where the methodology, experiments, and results can be inspected rather than just claimed.
 
 ---
 
-### 🛠️ My Favorite Tools
+### Current work
 
-#### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-#### Frameworks & Libraries
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+- **FloodRisk AI** — rebuilding a flood-simulation + learned-surrogate project around reproducible physics, diagnostic tests, and a held-out benchmark.
+- **Statistical / ML research** — developing stronger experimental work in statistical learning, scientific ML, model evaluation, and quantitative methods.
+- **Portfolio proof system** — turning selected projects into reproducible repositories, technical write-ups, and demos where they add real evidence.
 
 ---
 
-### 📊 My GitHub Stats
+### Selected work
 
-[![Aayush's GitHub Stats](https://github-readme-stats-nine-eta-59.vercel.app/api?username=aayush-0131&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+| Project | What it explores |
+| --- | --- |
+| [Hindi SLM](https://github.com/aayush-0131/Hindi_SLM) | Training and evaluating a Hindi-focused small language model; retained as an experimental project with its limitations and failure modes treated as part of the evidence. |
+| [Cost-Sensitive Credit Card Fraud Detection](https://github.com/aayush-0131/Credit-Card-Fraud-Detection) | Fraud detection framed around asymmetric misclassification costs and statistical / optimization-based decision making. |
 
-[![Top Langs](https://github-readme-stats-nine-eta-59.vercel.app/api/top-langs/?username=aayush-0131&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+More projects will be added here only after they survive a reproducibility and evidence audit.
 
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayush-0131&label=Profile%20views&color=blue" alt="Profile views" />
-</p>
+### Areas I’m interested in
+
+- Statistical learning and inference
+- Scientific machine learning
+- Quantitative research
+- LLM / model evaluation
+- Research engineering and reproducible experimentation
+
+---
+
+### Contact
+
+- [LinkedIn](https://www.linkedin.com/in/aayush-jha-01852a24a/)
+- [Email](mailto:aayush01jha@gmail.com)
+
+> I’m currently rebuilding this profile around fewer, stronger, inspectable pieces of work.
