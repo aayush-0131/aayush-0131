@@ -40,4 +40,3 @@ More projects will be added here only after they survive a reproducibility and e
 - [LinkedIn](https://www.linkedin.com/in/aayush-jha-01852a24a/)
 - [Email](mailto:aayush01jha@gmail.com)
 
-> I’m currently rebuilding this profile around fewer, stronger, inspectable pieces of work.
