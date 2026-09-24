@@ -77,7 +77,7 @@ A project earns a prominent place here only when the evidence is strong enough t
 
 ## Current direction
 
-I'm deliberately moving toward **fewer, stronger projects** with:
+I'm moving toward **stronger projects** with:
 
 - reproducible experiments,
 - defensible evaluation,
