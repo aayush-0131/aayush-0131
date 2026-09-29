@@ -1,6 +1,8 @@
 <div align="center">
 
-# [Aayush Jha](https://github.com/aayush-0131)
+<a href="https://github.com/aayush-0131">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%21+I%27m+Aayush+Jha;%40aayush-0131" alt="Hi there! I'm Aayush Jha — @aayush-0131" />
+</a>
 
 **Statistical Data Science @ Indian Statistical Institute, Kolkata**
 
