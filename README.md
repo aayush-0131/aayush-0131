@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aayush Jha
+# [Aayush Jha](https://github.com/aayush-0131)
 
 **Statistical Data Science @ Indian Statistical Institute, Kolkata**
 
