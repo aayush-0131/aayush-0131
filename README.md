@@ -18,21 +18,21 @@ I build technical projects where the **method, code, experiments, and failures c
 
 ## What I'm building
 
-### FloodRisk AI — scientific ML / simulation
-<code>ACTIVE · REBUILDING FOR REPRODUCIBILITY</code>
+### FloodRisk-AI — scientific computing / surrogate benchmarking
+<code>ACTIVE · SYNTHETIC PILOT VALIDATED · SURROGATE NOT TRAINED</code>
 
-A physics-first flood simulation project being rebuilt around a validated rainfall–runoff–routing pipeline, deterministic diagnostics, and a held-out benchmark before any learned surrogate is trusted.
+A 49-case ANUGA-labelled synthetic flood-depth pilot has passed its prescribed convergence spot-checks, conservation checks, structural audit and same-environment reproducibility checks. It covers one fixed, idealized terrain; it is **not** field-validated flood prediction.
 
-**Current focus:** physics repair → scenario validation → benchmark → surrogate modelling
+**Current focus:** production experiment design → staged data scaling → surrogate baselines. The development repository is currently **private**; public code and evidence links are not yet available.
 
-> The original experiment produced degenerate flood maps. Rather than preserve attractive metrics, I froze the baseline and am rebuilding the scientific pipeline from the failure upward.
+> The original 500-case dataset was rejected after an audit found 499 dry maps. The numerical failures and redesigned benchmark are part of the engineering record, not evidence of real-world forecasting capability.
 
 ---
 
-## Selected proof
+## Selected historical evidence (under audit)
 
 ### [Cost-Sensitive Credit Card Fraud Detection](https://github.com/aayush-0131/Credit-Card-Fraud-Detection)
-Statistical / optimization-based fraud detection built around asymmetric false-positive and false-negative costs rather than accuracy alone.
+A **three-person academic team report** on asymmetric fraud-classification costs. The source notebooks are not committed, so numerical results are not independently reproducible from the public repository. My documented team contribution was leading the optimization formulation and helping implement gradient descent.
 
 ### [Hindi SLM](https://github.com/aayush-0131/Hindi_SLM)
 <code>EXPERIMENTAL / HISTORICAL</code>
